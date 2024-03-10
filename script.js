@@ -139,6 +139,7 @@ boxes.forEach((box, index) => {
 
 newGameBtn.addEventListener("click", () =>{
     init();
+    emptyBoxes=9;
     boxes.forEach((box) => {
 
         box.classList.remove("win")
