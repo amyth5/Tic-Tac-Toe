@@ -7,3 +7,4 @@ in this mini project
 
 
 see it here
+https://amyth5.github.io/Tic-Tac-Toe/
